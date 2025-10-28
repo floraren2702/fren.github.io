@@ -1,0 +1,14 @@
+[
+{
+    "name": "Alice",
+    "age": 21,
+    "gpa": 4.0,
+    "major": "Computer Science"
+},
+{
+    "name": "Bob",
+    "age": 25,
+    "gpa": 3.8,
+    "major": "Computer Science"
+}
+]
