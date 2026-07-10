@@ -4,8 +4,8 @@ chapters:
   - file: Project1/project1
   - file: Project2/project2
   - file: Project3/project3
-  - file: MLHomework/Homework_1
-  - file: MLHomework/Homework_2
-  - file: MLHomework/Homework_3
-  - file: MLHomework/Homework_4
-  - file: MLHomework/Homework_5
+  - file: MLHomework1/Homework_1
+  - file: MLHomework2/Homework_2
+  - file: MLHomework3/Homework_3
+  - file: MLHomework4/Homework_4
+  - file: MLHomework5/Homework_5
